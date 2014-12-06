@@ -30,11 +30,14 @@
 
 **いくつかの推薦図書**
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yatagarasu38-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4774170798" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+* <a href="http://www.amazon.co.jp/gp/product/4774161802/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4774161802&linkCode=as2&tag=yatagarasu38-22">キタミ式イラストIT塾 ITパスポート 平成26年度 CBT対応</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=yatagarasu38-22&l=as2&o=9&a=4774161802" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yatagarasu38-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4774169188" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yatagarasu38-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4774158208" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yatagarasu38-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=477416917X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+* <a href="http://www.amazon.co.jp/gp/product/4774169188/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4774169188&linkCode=as2&tag=yatagarasu38-22">平成27年度 イメージ&クレバー方式でよくわかる 栢木先生のITパスポート教室 CBT対応 (情報処理技術者試験)</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=yatagarasu38-22&l=as2&o=9&a=4774169188" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+* <a href="http://www.amazon.co.jp/gp/product/4774158208/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4774158208&linkCode=as2&tag=yatagarasu38-22">ITパスポート最速合格術 ~1000点満点を獲得した勉強法の秘密</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=yatagarasu38-22&l=as2&o=9&a=4774158208" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+* <a href="http://www.amazon.co.jp/gp/product/477416917X/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=477416917X&linkCode=as2&tag=yatagarasu38-22">平成27年度 ITパスポート合格教本 CBT対応 (情報処理技術者試験)</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=yatagarasu38-22&l=as2&o=9&a=477416917X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 
 
 １冊目はキタミ式で、イラストの豊富さと分かりやすさはトップレベルです。２冊目の栢木先生の教室シリーズはFEなどでもよく利用する受験者の多い本です。図解も多く非常にわかりやすいので合格するための参考書としてよく出来ていると思います。３冊目は表紙だけで欲しいと思いました。モチベーションを保つのには苦労しないと思います。４冊目、情報処理技術者試験の王道合格教本シリーズです。ITパスポートならここまで重たい本を選ぶ必要はないかもしれません。
@@ -59,10 +62,14 @@ IT全般に関する基本的な知識・技能をもつ者（情報システム
 
 **いくつかの推薦図書**
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yatagarasu38-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4813261078" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yatagarasu38-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4774168203" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yatagarasu38-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4872689909" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yatagarasu38-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4872689542" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+* <a href="http://www.amazon.co.jp/gp/product/4813261078/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4813261078&linkCode=as2&tag=yatagarasu38-22">ニュースペックテキスト 基本情報技術者 平成27年度 (旧:イッキ! にわかる テキスト&問題演習・情報処理技術者試験)</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=yatagarasu38-22&l=as2&o=9&a=4813261078" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+* <a href="http://www.amazon.co.jp/gp/product/4774168211/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4774168211&linkCode=as2&tag=yatagarasu38-22">平成27年度【春期】 基本情報技術者 パーフェクトラーニング過去問題集 (情報処理技術者試験)</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=yatagarasu38-22&l=as2&o=9&a=4774168211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+* <a href="http://www.amazon.co.jp/gp/product/4872689909/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4872689909&linkCode=as2&tag=yatagarasu38-22">2015 基本情報技術者午前試験対策 (午前試験対策シリーズ)</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=yatagarasu38-22&l=as2&o=9&a=4872689909" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+* <a href="http://www.amazon.co.jp/gp/product/4872689542/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4872689542&linkCode=as2&tag=yatagarasu38-22">2014 基本情報技術者午後試験対策 (午後問題対策シリーズ)</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=yatagarasu38-22&l=as2&o=9&a=4872689542" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 
 １冊めのニュースペックテキストは分量も多く痒いところまで説明してくれます。多少なりとも午後対策がありや練習問題も多くあるので一冊だけで合格したいという受験生にも選択肢となると思います。２冊目、合格教本、説明は割愛します。３，４冊目、アイテックの本です。定番の参考書ではありませんが、午前は要点を抑えてあり、理解を深めたり、要点の確認にも使えます。午後の方が過去問をよく解説してくれている参考書という感じです。ただ、２冊とも試験対策の参考書感は否めません。
 
