@@ -5,6 +5,12 @@ KCCC
 
 どんどん編集してPR "pull request"送ってください。
 
+
+### ディレクトリ構成
+
+* [CG][cg]-コンピュータグラフィックや画像編集、3DCG、アニメーションなど
+* [JITEE][jitee]-情報処理技術者試験、各サブディレクトリにはカテゴリごとに
+
 ### 現状
 
 * 年間日程表を載せました。（変更等お願いします）
@@ -52,3 +58,5 @@ Github/GitHub for Windowsとかでググると幸せになれるかも
 [firstGithub]:http://www.slideshare.net/hideaki_honda/github-16525093?qid=8353330f-128b-4167-bde8-3428de9f32b6&v=qf1&b=&from_search=3
 [GithubforWindows]:http://dev.classmethod.jp/etc/github-for-windows/
 [gw]:https://windows.github.com/
+[cg]:https://github.com/raven38/KCCC/tree/master/CG
+[jitee]:https://github.com/raven38/KCCC/tree/master/JITEE
