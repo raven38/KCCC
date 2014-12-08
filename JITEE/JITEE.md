@@ -1,4 +1,4 @@
-# JITTE "Japan Information-Technology Engineers Examination" 「情報処理技術者試験」
+# JITEE "Japan Information-Technology Engineers Examination" 「情報処理技術者試験」
 ---
 
 情報処理技術者試験は、「情報処理の促進に関する法律（昭和45年法律第90号）」第7条の規定に基づき、経済産業省が情報処理技術者としての「知識・技能」が一定以上の水準であることを認定している国家試験である。 情報システムを構築・運用する「技術者」から情報システムを利用する「エンドユーザ（利用者）」まで、ITに関係する全ての人に活用される試験として実施している。
